@@ -1,0 +1,1 @@
+# Bayesian-Classifier-and-Gaussian-Mixture-Model-for-Pattern-Recognition
